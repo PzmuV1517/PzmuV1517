@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Andrei Banu.<br><br>I'm a member of the QuantumBits FLL team and the QuantumRobotics FTC team of ICHB, Bucharest Romania.<br>I won FLL Open Greece 2025 (First Place Champions Award).<br>I won INFOMATRIX hackathon with the first place prize in 2024.
+I'm Andrei Banu.<br><br>I'm a member of the QuantumBits FLL team and the QuantumRobotics FTC team of ICHB, Bucharest Romania.<br>I won FLL Open Greece 2025 (First Place Champions Award).<br>I won INFOMATRIX hackathon with the first place prize in 2024.<br>Creator of the liquid-react NPM library
 
 
 ## 🌐 Socials:
